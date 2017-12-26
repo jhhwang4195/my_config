@@ -1,1 +1,1 @@
-# my_config
+Configuration files
