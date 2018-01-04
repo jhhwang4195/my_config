@@ -7,5 +7,6 @@ echo "# TIL" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
+#git remote add origin https://github.com/<_Your_Github_ID_Here>/<_Your_Repository_Here_>.git
 git remote add origin https://github.com/jhhwang4195/TIL.git
 git push -u origin master
