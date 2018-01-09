@@ -31,6 +31,8 @@ git config --global color.status.untracked "cyan"
 
 git config --global merge.tool vimdiff
 
+git config --global push.default simple
+
 echo -e "\e[1;32;40m########################################################\033[0m"
 echo -e "\e[1;32;40m# after git config setting\033[0m"
 echo -e "\e[1;32;40m########################################################\033[0m"
