@@ -9,6 +9,7 @@ git config --list
 ########################################################
 git config --global user.name "jhhwang"
 git config --global user.email jhhwang4195@gmail.com
+git config --global credential.helper store
 git config --global color.ui auto
 git config --global merge.tool vimdiff
 git config --global push.default simple
