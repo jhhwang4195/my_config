@@ -1,0 +1,13 @@
+color koehler
+
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+
+set autoindent
+set cindent
+set smartindent
+set noexpandtab
+
+" auto indent toggle
+set pastetoggle=<F3>
